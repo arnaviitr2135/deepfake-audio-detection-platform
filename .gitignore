@@ -1,0 +1,7 @@
+.venv/
+.qodo/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/
+*.zip
